@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Larisa Tour Guide</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_sightseeings">Sightseeings</string>
+    <string name="category_coffee">Coffee</string>
+    <string name="category_drinks">Drinks</string>
+    <string name="categories">Categories</string>
+    <string name="adamos_name">Adamos</string>
+    <string name="adamos_description">\"One of the oldest quality local restaurants in Larisa. It serves Local cuisine, Barbecue dishes and Mediterranean cuisine\".</string>
+    <string name="bakalogatos_name">Bakalogatos</string>
+    <string name="bakalogatos_description">\"Placed on the fortress area of Larisa, with an old cinematic design, it offers a taste of old Greek times, and traditional culinary cuisine.\"</string>
+    <string name="akamatra_name">Akamatra</string>
+    <string name="akamatra_description">\"Modern design, fast service and tasty culinary dishes are the main qualities of the restaurant. Having a dinner, a bar and an exquisite garden.\"</string>
+    <string name="en_larisi_name">En Larisi</string>
+    <string name="en_larisi_intro">\"With an exquisite view by the river of Larisa, great dishes and live music, it\'s certainly the place someone needs to visit while being on Larisa.\"</string>
+    <string name="just_winebar_name">Just Winebar</string>
+    <string name="just_winebar_description">\"The place to taste every Greek Wine there is, and also to taste great dishes with the company of good music and awesome-quick service.\"</string>
+    <string name="epicure5_name">Epicure 5</string>
+    <string name="epicure5_description">\"Just above Larisa\'s main square, with a view from the height of a 5th floor, Epicure 5 is a classy restaurant everyone should enjoy eating in it.\"</string>
+    <string name="baricou_name">Baricou</string>
+    <string name="baricou_description">\"Featuring Italian cuisine, and Mediterranean dishes, tasteful hot beverages and a warm atmosphere, this is certainly the place to go for a relaxing experience.\"</string>
+    <string name="lucullus_name">Lucullus</string>
+    <string name="lucullus_description">\"One of the oldest traditional restaurants in Larisa, it offers a wide variety of dishes with reasonable prices, live music, and of course a warm and kind atmosphere.\"</string>
+    <string name="ancient_theater_name">Ancient Theater of Larisa</string>
+    <string name="ancient_theater_description">\"The ancient theater of Larisa is probably the best attraction for someone to visit. I\'ts well preserved through the years, and certainly worth visiting.\"</string>
+    <string name="b_ancient_theater_name">#2 Ancient Theater(or The Little Theater)</string>
+    <string name="b_ancient_theater_description">\"The #2 Ancient Theater of Larisa, or the little Ancient Theater, is the place where all the rehearsals and children performances took place.\"</string>
+    <string name="diachronic_museum_name">Diachronic Museum of Larisa</string>
+    <string name="diachronic_museum_description">\"The Diachronic Museum of Larisa presents on it\'s visitors the history of Larisa throughout the last 10.000 years. It\'s well organized and totally fascinating.\"</string>
+    <string name="pinios_river_name">Pinios River</string>
+    <string name="pinios_river_description">\"Pinios River is a big river that passes through the city of Larisa separating the &#8531; of the city from the rest of it. Truly a remarkable sight!\"</string>
+    <string name="municipal_art_gallery_name">Municipal Art Gallery</string>
+    <string name="municipal_art_gallery_description">\"The Municipal Art Gallery brings together many famous and beautiful works of art and it\'s a remarkable cultural Center very much worth the while of it\'s visitors.\"</string>
+    <string name="folklore_museum_name">Folklore Historical Museum</string>
+    <string name="folklore_museum_description">\"If interested in Larisa\'s culture, someone needs to visit the Folklore Historical Museum which hosts the local history of the city.\"</string>
+</resources>
