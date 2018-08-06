@@ -8,14 +8,18 @@ import android.support.v4.app.FragmentManager;
 
 public class LocationsCategoryAdapter extends FragmentPagerAdapter {
 
+    //context of the app
     private Context mContext;
 
+    //create a new object LocationsCategoryAdapter
+    //create the constructor of the object
     public LocationsCategoryAdapter(Context context, FragmentManager fragmentManager){
         super(fragmentManager);
         mContext = context;
     }
 
-
+    //set the content of each tab at the TabLayout
+    //the content is determined by the tab's position
     @Override
     public Fragment getItem(int position) {
         if(position == 0){
@@ -29,11 +33,13 @@ public class LocationsCategoryAdapter extends FragmentPagerAdapter {
         }
     }
 
+    //return the total number of pages
     @Override
     public int getCount() {
         return 4;
     }
 
+    //set the title for each tab using it's position in the TabLayout
     @Override
     public CharSequence getPageTitle(int position) {
         if(position == 0){
